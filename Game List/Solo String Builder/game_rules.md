@@ -1,4 +1,4 @@
-# **Solo String Builder **
+# Solo String Builder 
 
 > By Alan Roger.
 > 
