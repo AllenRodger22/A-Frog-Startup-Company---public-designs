@@ -20,6 +20,5 @@
 - On your turn, choose one card from your hand and play it face-down on the table.
 - Once all players have played a card, turn them face up.
 - The player with the highest card value wins the round and collects all of the cards that have been played.
-- If two or more players tie for the highest card value, the cards are splitted to them.
 - The game ends when one player has no cards left, and that player is the winner.
 - In the event of a tie, the player with the highest-ranked card should chekc your suit and the following is a rank of the most powerful suit: Spade>Heart>Club>Diamond which Spade will win all ties, making the Ace of Spades the most valuable card and K Diamond the worst one.
