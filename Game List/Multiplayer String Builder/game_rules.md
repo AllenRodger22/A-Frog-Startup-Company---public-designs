@@ -1,27 +1,23 @@
-# **Multiplayer String Builder -** 
+# **Multiplayer String Builder**
 
-> By Alan Roger.
-> 
+This is a card game called Multiplayer String Builder.
 
-## **Components**
+## **The goal**
 
-- Old Maid deck (52 cards with 4 suits)
+Our goal is to make a row of five cards in sequence, which can be like 10,J,Q,K,A,2, for example.
 
-## **Objective**
+## **The cards**
 
-- Create a String (sequence) of 5 cards of the same suit, such as 3, 4, 5, 6, 7 or 10, J, Q, K, A, or even A, K, Q, J, 10, on the discard piles.
+There are 52 cards with four suits: hearts, diamonds, clubs, and spades.
 
-## **Setup**
+## **Starting the game**
 
-- Each player draws 3 cards from the shuffled deck.
-- Place 3 random cards side by side to create the player piles, which will be used to build the String.
+Each player starts with 3 cards in their hand that were drawn from pile card. put 5 cards in a row in front of you to start the game.
 
-## **Gameplay**
+## **Taking turns**
 
-- On a player's turn, they draw a card from the draw pile and place it in one of the 5 spaces (the player piles).
-- The turn then ends and play continues in a counterclockwise direction.
-- Players take turns until someone creates a String.
+On your turn, you'll draw one card and add it to one of the five spaces of the row in front of you. Then it's the next player's turn. We keep playing until someone makes a row of five cards of the same suit and it is called a String.
 
-## **Winning the game**
+## **Winning**
 
-- The first player to create a String wins the game.
+The first person to make a String e. Are you ready to start playing?
