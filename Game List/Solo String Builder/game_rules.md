@@ -14,11 +14,12 @@
 - Face cards (A, J, Q, K) may not be used in the string.
 - This is an example of a grid that contains a string:
     
-    ![WhatsApp Image 2022-12-21 at 09.54.10.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e122e230-6425-49b7-951d-9d15368204ef/WhatsApp_Image_2022-12-21_at_09.54.10.jpeg)
+    ![WhatsApp Image 2022-12-21 at 09.54.10.jpeg](./assets/string.jpeg)
     
 - This is an example of a grid without a String:
 
-![WhatsApp Image 2022-12-21 at 09.57.26.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3da8bba5-aaed-48c9-b412-19b55b974295/WhatsApp_Image_2022-12-21_at_09.57.26.jpeg)
+    ![WhatsApp Image 2022-12-21 at 09.54.10.jpeg](./assets/notastring.jpeg)
+
 
 # **Gameplay**
 
