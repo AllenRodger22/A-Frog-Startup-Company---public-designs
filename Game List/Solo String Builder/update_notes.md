@@ -1,0 +1,2 @@
+# Release Notes - 1.0.0:
+    Some rules were changed in a version of the project, but these changes were not tracked. Therefore, we will start with version 1.0.0, as this version already had some updates. However, these updates were not tracked either. We will consider this version to be released, as we have already received feedback on it and made further changes based on this feedback.
