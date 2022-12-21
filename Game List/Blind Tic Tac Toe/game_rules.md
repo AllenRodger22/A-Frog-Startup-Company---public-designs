@@ -1,4 +1,4 @@
-# Blind Tic Tac Toe - (v0.1.0)
+# Blind Tic Tac Toe 
 
 > By Alan Roger
 > 
