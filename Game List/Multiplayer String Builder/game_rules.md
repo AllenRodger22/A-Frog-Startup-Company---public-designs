@@ -1,4 +1,4 @@
-# **Multiplayer String Builder -** - (v0.1.0)
+# **Multiplayer String Builder -** 
 
 > By Alan Roger.
 > 
