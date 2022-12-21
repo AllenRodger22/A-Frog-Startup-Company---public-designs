@@ -1,14 +1,5 @@
 # Game Designs from 2022
 
-# List of what we have done this year so far
-
-> Any feedback is welcomed and you can comment on the game design pages if you have a notion account.
-also, you can use the the following information to contact me:
-
-Email: allen.thepolitecat@gmail.com
-Discord: AllenRodger#6162
-> 
-
 # What am I  working on right now?
 
 > I'm working in improving the quality of designs that are in v.0.1.0 to reach a 1.0.0 version.
