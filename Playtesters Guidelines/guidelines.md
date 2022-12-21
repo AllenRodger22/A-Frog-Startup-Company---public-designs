@@ -1,5 +1,5 @@
 # Feedback Outline
-###    If you would like to help us improve quality, and have time for long feedbacks you can reply the following questions and send it to allen.thepolitecat@gmail.com with the game title - version - and your answers 
+###    If you would like to help us improve quality, and have time for long feedbacks you can reply the following questions and send it to allen.thepolitecat@gmail.com with this subject: [game title - version - and your answers ]
 
 # Playtesters question
 
