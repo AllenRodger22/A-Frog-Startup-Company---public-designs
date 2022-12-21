@@ -25,9 +25,12 @@ z → Game balance update
 # Games prototypes from  2022
 
 [Blind Tic Tac Toe - (v0.1.0)]
-[The Great Showdown - (v0.1.0)]
-[Do not steal my carrot ! - (v0.1.0)](
 
+[The Great Showdown - (v0.1.0)]
+
+[Do not steal my carrot ! - (v0.1.0)]
 [**Solo String Builder (v1.2.1)**]
+
 [**Multiplayer String Builder -** - (v0.1.0)]
+
 [Hand Free -(v0.1.0)]
