@@ -1,5 +1,7 @@
 # Patch Notes - 
 
+### version 0.1.3:
+     Remove a not necessary text that may cause confusion in rules understanding process.
 ### version 0.1.2:
      In order to fix the bug that if the aces get dealt evenly, no one can win, we changed the rule to fix it with a order of important suit in tiebreak.
      
