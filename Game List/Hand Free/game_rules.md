@@ -2,23 +2,15 @@
 
 > By Alan Roger.
 > 
-
-### **Components:**
-
-- A standard 52-card deck with 4 suits (spades, hearts, diamonds, clubs).
-
-### **Objective:**
-
-- Be the first player to get rid of all of your cards.
-
-### **Setup:**
-
-- Shuffle the deck and deal an equal number of cards to each player. (Only a pair amount of players are allowed)
-
-### **Gameplay:**
-
-- On your turn, choose one card from your hand and play it face-down on the table.
-- Once all players have played a card, turn them face up.
-- The player with the highest card value wins the round and collects all of the cards that have been played.
-- The game ends when one player has no cards left, and that player is the winner.
-- In the event of a tie, the player with the highest-ranked card should chekc your suit and the following is a rank of the most powerful suit: Spade>Heart>Club>Diamond which Spade will win all ties, making the Ace of Spades the most valuable card and K Diamond the worst one.
+### Rules
+Shuffle the 52-card deck.
+Each player draws 2 cards at the beginning of the game.
+The game is played in turns, moving counterclockwise.
+Each player keeps their cards hidden and chooses one card to play.
+All players play their chosen cards face down, and then turn them face up when everyone has played.
+The highest ranking card wins, with the ranking order as follows: 
+## A > K > Q > J > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 > 2.
+All players discard their cards, except for the player who won the round. This player does not need to draw any cards in this turn.
+If a player only has one card and plays it, and loses the round, they must draw 2 cards instead of just one.
+The maximum number of cards a player can have in their hand is 2.
+Who reach 0 cards in hand first, wins!
