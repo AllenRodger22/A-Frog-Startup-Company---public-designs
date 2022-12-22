@@ -13,4 +13,4 @@ The highest ranking card wins, with the ranking order as follows:
 All players discard their cards, except for the player who won the round. This player does not need to draw any cards in this turn.
 If a player only has one card and plays it, and loses the round, they must draw 2 cards instead of just one.
 The maximum number of cards a player can have in their hand is 2.
-Who reach 0 cards in hand first, wins!
+Who reach 0 cards in hand first, wins! 
