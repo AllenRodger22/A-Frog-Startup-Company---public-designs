@@ -2,7 +2,7 @@
 
 # What am I  working on right now?
 
-> I'm working in improving the quality of designs that are in v.0.1.0 to reach a 1.0.0 version.
+> I'm get some trouble pushing my updates so I will spent this Thurday learning more about how to do it, if you have anyfeedback, you send it to my Discord or email :).
 > 
 
 # How am I versioning?
