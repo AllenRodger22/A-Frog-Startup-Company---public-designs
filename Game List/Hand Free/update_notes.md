@@ -1,5 +1,5 @@
 # Patch Notes - 
-### version 1.0.0
+### version 1.0.0 
      Lots of mechanics was changes, now you have just 2 cards on hand in the beginning and the core concept and weird as well that you win, so you loose was replaced for new ones.
 ### version 0.1.3:
      Remove a not necessary text that may cause confusion in rules understanding process.
